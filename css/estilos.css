@@ -30,3 +30,10 @@ body{
 #post{
     padding: 1em;
 }
+
+#footer{
+    background-color: teal;
+    color:snow;
+    font-size: 20px;
+    text-align: center;
+}
